@@ -1,11 +1,7 @@
-### Hi there 👋
-I'm Chibuike,I'm a Software Developer who is passionate about creating technologies for the internet. I enjoy working with languages and frameworks like React, React Native, Django, and PHP. You can check out my porfolio @ https://codebyte.me. 
 <h1 align="center">Hi 👋, I'm chibuike</h1>
 <h3 align="center">I'm Chibuike,I'm a Software Developer who is passionate about creating technologies for the internet. I enjoy working with languages and frameworks like React, React Native, Django, and PHP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chibyk1000&label=Profile%20views&color=0e75b6&style=flat" alt="chibyk1000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chibyk1000" alt="chibyk1000" /></a> </p>
 
 - 🔭 I’m currently working on [dd](d)
 
@@ -30,23 +26,3 @@ I'm Chibuike,I'm a Software Developer who is passionate about creating technolog
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chibyk1000&" alt="chibyk1000" /></p>
 
-
-
-
-<!--
-![Chibuike's GitHub stats](https://github-readme-stats.vercel.app/api?username=chibyk1000&show_icons=true&theme=radical)
-
-
-**chibyk1000/chibyk1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
