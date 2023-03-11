@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chibuike</h1>
-<h3 align="center">I'm Chibuike,I'm a Software Developer who is passionate about creating technologies for the internet. I enjoy working with languages and frameworks like React, React Native, Django, and PHP.</h3>
+<h3 align="center">I'm Chibuike,I'm a Software Developer who is passionate about creating things for the internet. I enjoy working with languages and frameworks like React, React Native, Django, and PHP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chibyk1000&label=Profile%20views&color=0e75b6&style=flat" alt="chibyk1000" /> </p>
 
