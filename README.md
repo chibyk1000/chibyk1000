@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chibyk1000&label=Profile%20views&color=0e75b6&style=flat" alt="chibyk1000" /> </p>
 
-- 🔭 I’m currently working on [dd](d)
+- 🔭 I’m currently working on [ReRoom](https://github.com/chibyk1000/re-room)
 
 - 💬 Ask me about **react, nodejs, nextjs, django**
 
